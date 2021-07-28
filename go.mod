@@ -1,1 +1,1 @@
-module "awesomeProject2"
+module "github.com/Yerlan-Tleubekov/data-structures-and-algorithms"
